@@ -16,9 +16,9 @@ pkg install python2 -y
 pkg install bash -y
 
 
-git clone https://github.com/sadamshr3be/AhmiiVirus-alsharabi
+git clone https://github.com/raiderrXD/REDHAC-V-RUS
 
-cd AhmiiVirus-alsharabi
+cd REDHAC-V-RUS
 
 chmod +x *
 
